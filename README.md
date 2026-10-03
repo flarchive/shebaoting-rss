@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of shebaoting/rss.** Not for installation: use [Packagist](https://packagist.org/packages/shebaoting/rss) or the [upstream repository](https://github.com/shebaoting/rss).
 
-**0** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/shebaoting-rss/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0.0-beta`
+**5** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/shebaoting-rss/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.3.0` | 2024-09-07 | `^1.2.0` | [Browse](https://github.com/flarchive/shebaoting-rss/tree/archive/v0.3.0) |
+| `0.3.1` | 2024-09-07 | `^1.2.0` | [Browse](https://github.com/flarchive/shebaoting-rss/tree/archive/v0.3.1) |
+| `2.0.0` | 2026-06-26 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-rss/tree/archive/v2.0.0) |
+| `2.0.1` | 2026-06-26 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-rss/tree/archive/v2.0.1) |
+| `2.0.2` | 2026-06-26 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-rss/tree/archive/v2.0.2) |
 
 Catalog entry: [packages/shebaoting-rss.json](https://github.com/flarchive/archive-index/blob/main/packages/shebaoting-rss.json)
 
